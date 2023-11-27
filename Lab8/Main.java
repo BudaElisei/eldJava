@@ -5,8 +5,8 @@ import java.util.stream.Collectors;
 
 public class Main {
     public static void main(String[] args) {
-        //problema1();
-       // probema2();
+        problema1();
+        probema2();
         problema3();
     }
     public static void problema1(){
