@@ -2,6 +2,7 @@ package lab4;
 
 import java.util.Scanner;
 
+
 public class Main {
     public static void sumaCifre(Integer numar){
         Integer suma = 0;
@@ -29,5 +30,7 @@ public class Main {
 
 
     }
+
+
 
 }
