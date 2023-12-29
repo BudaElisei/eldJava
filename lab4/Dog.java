@@ -1,10 +1,10 @@
 package lab4;
 
-public class DOG {
+public class Dog {
     private String name;
     private String breed;
 
-    public DOG(String name, String breed){
+    public Dog(String name, String breed){
 
         this.name = name;
         this.breed = breed;
