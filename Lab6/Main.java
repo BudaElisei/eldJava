@@ -6,12 +6,12 @@ import java.util.stream.Collectors;
 
 public class Main {
     public static void main(String[] args) {
-        /*Triangle triangle = new Triangle(5);
+        Triangle triangle = new Triangle(5);
         Square square = new Square(6);
 
         triangle.desen();
         square.desen();
-        Shape.afiseazaCeva();*/
+        Shape.afiseazaCeva();
 
         List<Book> listeCarti = new ArrayList<>();
         List<String> listaDeString = new ArrayList<>();
