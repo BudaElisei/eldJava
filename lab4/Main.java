@@ -36,8 +36,8 @@ public class Main {
         }
     }
     public static void dog(Scanner scanner){
-        Dog catel1 = new Dog("Sony", "amstaf");
-        Dog catel2 = new Dog("Pufulete", "techel");
+        Dog catel1 = new Dog("Sony", "Amstaf");
+        Dog catel2 = new Dog("Pufulete", "Techel");
         System.out.println("nume initial catel1: "+catel1.getName());
         System.out.println("Rasa initiala catel1: "+catel1.getBreed());
         System.out.println("Schimbati nume catel1: ");
